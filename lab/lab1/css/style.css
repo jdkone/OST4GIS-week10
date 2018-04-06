@@ -12,6 +12,30 @@ body {
     top: 0;
 }
 
+button {
+  position: absolute;
+  left: 240px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+svg {
+    padding: 10px;
+    border-color: #eee;
+}
+
+circle {
+  color: black;
+  left: 24px;
+}
+
+line {
+  color: black;
+  left: 24px;
+}
+
 .sidebar {
     position: absolute;
     left: 0px;
