@@ -17,7 +17,7 @@ My data comes from Denver's open data site and the census. For census data, I wi
 
 ## Technologies used
 
-I plan to use jQuery and underscore, as well as Carto.
+I plan to use jQuery, underscore, Carto and MapBox.
 
 ## Design spec
 
